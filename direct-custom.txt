@@ -1,0 +1,42 @@
+payload:
+  # 云GPU训练平台
+  - '+.gpushare.com'  # 恒源云 GPUSHARE
+  - '+.autodl.com'  # 算力云 autodl
+
+  # 其他直连服务
+  - '+.acceboy.com'  # 账号星球
+  - '+.dhamma.com'  # 隆波帕默尊者官网
+
+  # TikTok 全球开店
+  - '+.tiktokglobalshop.com'  # TikTok 全球开店
+
+  # 微软 - 核心域名
+  - '+.microsoft.com'  # 微软主域名
+  - '+.microsoftonline.com'  # 登录认证
+  - '+.office.com'  # Office 官网/服务
+  - '+.office.net'  # Office 加载项/CDN 资源
+  - '+.office365.com'  # Office 365 服务
+  - '+.officeapps.live.com'  # Office 加载项/云端渲染
+  - '+.live.com'  # 微软账号/Xbox Live
+  - '+.msftconnecttest.com'  # 网络连通性检测
+  - '+.msauth.net'  # 身份验证
+  - '+.msftauth.net'  # 身份验证(备用域名)
+  - '+.msocdn.com'  # Office CDN 静态资源
+
+  # 微软 - 必应/搜索
+  - '+.bing.com'
+  - '+.bing.net'
+
+  # 微软 - Outlook/邮箱
+  - '+.outlook.com'
+  - '+.outlook.office.com'
+  - '+.outlook.office365.com'
+
+  # 微软 - OneDrive/云存储
+  - '+.onedrive.com'
+  - '+.sharepoint.com'
+
+  # 微软 - Windows 更新/商店
+  - '+.windowsupdate.com'
+  - '+.windows.com'
+  - '+.msftncsi.com'

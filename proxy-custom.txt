@@ -1,0 +1,10 @@
+payload:
+  # YouTube / googlevideo
+  - DOMAIN-KEYWORD,youtube
+  - '+.googlevideo.com'
+  - '+.youtu.be'
+  - '+.yt.be'
+
+  # GitHub 主站与 API
+  - DOMAIN-KEYWORD,github
+  - '+.ghcr.io'  # GitHub Container Registry
