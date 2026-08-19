@@ -1,10 +1,25 @@
 payload:
-  # YouTube / googlevideo
-  - DOMAIN-KEYWORD,youtube
+  # YouTube 相关
+  - '+.youtube.com'
+  - '+.youtube-nocookie.com'
   - '+.googlevideo.com'
   - '+.youtu.be'
   - '+.yt.be'
+  - '+.ytimg.com'
+  - '+.ggpht.com'
+  - '+.wide-youtube.l.google.com'
+  - '+.withyoutube.com'
+  - '+.youtubekids.com'
+  - '+.youtubei.googleapis.com'
+  - '+.youtube.googleapis.com'
 
-  # GitHub 主站与 API
-  - DOMAIN-KEYWORD,github
+  # GitHub 相关
+  - '+.github.com'
+  - '+.github.io'
+  - '+.githubusercontent.com'
+  - '+.githubassets.com'
+  - '+.githubcopilot.com'
   - '+.ghcr.io'  # GitHub Container Registry
+  - '+.github.dev'
+  - '+.github.blog'
+  - '+.githubapp.com'
