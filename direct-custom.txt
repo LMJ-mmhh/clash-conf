@@ -9,6 +9,7 @@ payload:
 
   # TikTok 全球开店
   - '+.tiktokglobalshop.com'  # TikTok 全球开店
+  - '+.kalodata.com'  # Tiktok 选品工具 kalodata
 
   # 微软 - 核心域名
   - '+.microsoft.com'  # 微软主域名
