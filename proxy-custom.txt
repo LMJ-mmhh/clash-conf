@@ -23,3 +23,6 @@ payload:
   - '+.github.dev'
   - '+.github.blog'
   - '+.githubapp.com'
+
+# live 
+- '+.live.com'
