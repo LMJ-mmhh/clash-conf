@@ -1,5 +1,8 @@
 payload:
   # 云GPU训练平台
+  - '+..com'  # 恒源云 GPUSHARE
+
+  # 云GPU训练平台
   - '+.gpushare.com'  # 恒源云 GPUSHARE
   - '+.autodl.com'  # 算力云 autodl
 
@@ -9,6 +12,7 @@ payload:
 
   # TikTok 全球开店
   - '+.tiktokglobalshop.com'  # TikTok 全球开店
+  - '+.tiktokshopglobalselling.com'  # TikTok 全球开店
   - '+.kalodata.com'  # Tiktok 选品工具 kalodata
 
   # 微软 - 核心域名
