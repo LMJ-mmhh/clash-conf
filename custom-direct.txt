@@ -11,9 +11,20 @@ payload:
   - '+.dhamma.com'  # 隆波帕默尊者官网
 
   # TikTok 全球开店
-  - '+.tiktokglobalshop.com'  # TikTok 全球开店
+  - '+.tiktokglobalshop.com'  # 卖家中心、开放平台 API
   - '+.tiktokshopglobalselling.com'  # TikTok 全球开店
-  - '+.kalodata.com'  # Tiktok 选品工具 kalodata
+  - '+.tiktokshop.com'  # 卖家中心 seller.tiktokshop.com、合作伙伴中心 partner.tiktokshop.com
+  - '+.ttwstatic.com'  # 卖家/达人后台静态资源
+  - '+.byteimg.com'  # 商品图片、素材 CDN
+  - '+.ibyteimg.com'  # 商品图片、素材 CDN
+  # tiktok.com 下的卖家后台子域（不能写 +.tiktok.com，否则泰国规则失效）
+  - 'seller-us.tiktok.com'
+  - 'seller-uk.tiktok.com'
+  - 'affiliate-us.tiktok.com'
+  # 选品工具
+  - '+.kalodata.com'  # Kalodata
+  - '+.fastmoss.com'  # FastMoss（如未使用可删）
+  - '+.echotik.live'  # EchoTik（如未使用可删）
 
   # 微软 - 核心域名
   - '+.microsoft.com'  # 微软主域名
