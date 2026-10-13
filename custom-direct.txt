@@ -10,6 +10,7 @@ payload:
   - '+.acceboy.com'  # 账号星球
   - '+.dhamma.com'  # 隆波帕默尊者官网
   - '+.shineling.org'  # 静虑林
+  - '+..maomp.ink'  # 冒泡网
 
   # TikTok 全球开店
   - '+.tiktokglobalshop.com'  # 卖家中心、开放平台 API
