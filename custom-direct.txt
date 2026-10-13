@@ -1,6 +1,6 @@
 payload:
   # 云GPU训练平台
-  - '+..com'  # 恒源云 GPUSHARE
+  - '+.com'  # 恒源云 GPUSHARE
 
   # 云GPU训练平台
   - '+.gpushare.com'  # 恒源云 GPUSHARE
