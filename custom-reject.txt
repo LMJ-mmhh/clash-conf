@@ -1,3 +1,6 @@
 payload:
   # 第三方监控/追踪服务
   - '+.datadoghq.com'  # Datadog,用于收集 Office 加载项数据
+  # Adobe 反盗版验证及统计拦截
+  - 'ic.adobe.io'
+  - '+.adobestats.io'
