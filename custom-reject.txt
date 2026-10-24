@@ -1,6 +1,18 @@
 payload:
-  # 第三方监控/追踪服务
-  - '+.datadoghq.com'  # Datadog,用于收集 Office 加载项数据
-  # Adobe 反盗版验证及统计拦截
+  # Adobe 正版校验、许可证与激活拦截
+  - '+.adobegenuine.com'
+  - '+.licenses.adobe.com'
+  - 'lm.licenses.adobe.com'
+  - 'na1r.services.adobe.com'
   - 'ic.adobe.io'
   - '+.adobestats.io'
+  - 'activate.adobe.com'
+  - 'ereg.adobe.com'
+  - 'activate.wip3.adobe.com'
+  - 'wip3.adobe.com'
+  - '3dns-2.adobe.com'
+  - '3dns-3.adobe.com'
+  - 'adobe-dns.adobe.com'
+
+  # 第三方监控/追踪服务
+  - '+.datadoghq.com'  # Datadog,用于收集 Office 及其他软件加载项数据
